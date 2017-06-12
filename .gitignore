@@ -19,6 +19,6 @@
 
 !*.txt
 !*.md
-!ppm
-!class
+!.ppm
+!.class
 
