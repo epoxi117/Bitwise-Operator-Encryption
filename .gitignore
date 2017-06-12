@@ -21,4 +21,9 @@
 !*.md
 !.ppm
 !.class
+!Class Files
+!Class Files/
+!PPM images
+!PPM images/
+!.jar
 
